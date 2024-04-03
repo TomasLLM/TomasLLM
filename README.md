@@ -251,6 +251,7 @@
 <br>
 <br>
 <br>
+Daniel Crespo jumpscare!
 <br>
 
 <img src="rector-upc-daniel-crespo-web.jpg" alt="Image" width="2000">
