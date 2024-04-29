@@ -1,12 +1,19 @@
 # En Tomàs, exiliat de l'ETSETB, adoptat a l'ESEIAAT
 ### L'història que va emocionar a Steven Spielberg
+
+<br>
+<br>
+
+## Índexos de projectes:
+### - [Índex de pràctiques de Processadors Digitals](https://github.com/TomasLLM/PD24_index)
+
+<br>
+<br>
+
 <img src="gifcorpolitecnic.gif" alt="Animation" width="500">
 
 <br>
 <br>
-
-## [Index de pràctiques de Processadors Digitals](https://github.com/TomasLLM/PD24_index)
-
 <br>
 <br>
 <br>
