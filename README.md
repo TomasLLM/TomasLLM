@@ -5,8 +5,8 @@
 <br>
 
 ## Índexos de projectes:
-### - [Índex de pràctiques de Processadors Digitals](https://github.com/TomasLLM/PD24_index)
-
+### - [Índex de pràctiques de Processadors Digitals](https://github.com/TomasLLM/PD24_index) (23/24 Q2)
+### - [Índex de pràctiques d'Algorísmia i Programació Audiovisual](https://github.com/TomasLLM/25APA_Index) (24/25 Q2)
 <br>
 <br>
 
