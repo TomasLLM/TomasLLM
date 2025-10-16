@@ -7,6 +7,7 @@
 ## Índexos de projectes:
 ### - [Índex de pràctiques de Processadors Digitals](https://github.com/TomasLLM/PD24_index) (23/24 Q2)
 ### - [Índex de pràctiques d'Algorísmia i Programació Audiovisual](https://github.com/TomasLLM/25APA_Index) (24/25 Q2)
+### - [Projecte de laboratori de Projectes d'Enginyeria, sensor GPS](https://github.com/TomasLLM/Projecte-ESP32-PE) (25/26 Q1)
 <br>
 <br>
 
